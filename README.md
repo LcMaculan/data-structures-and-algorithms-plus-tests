@@ -25,7 +25,6 @@ bash run.sh bst/main.cs
 ## Algorithms
 - [x] [Breadth First Search (bfs)](./c_sharp/bfs/main.cs)
 - [x] [Depth First Search (dfs)](./c_sharp/dfs/main.cs)
-- [x] [Binary Search Tree (bst)](./c_sharp/bst/main.cs)
 - [x] [Disjoint Set List (disjoint_set_list)](./c_sharp/disjoint_set_list/main.cs)
 - [x] [Disjoint Set Tree (disjoint_set_tree)](./c_sharp/disjoint_set_tree/main.cs)
 - [x] [Linked List (linked_list)](./c_sharp/linked_list/main.cs)
