@@ -29,3 +29,4 @@ bash run.sh bst/main.cs
 - [x] [Disjoint Set Tree (disjoint_set_tree)](./c_sharp/disjoint_set_tree/main.cs)
 - [x] [Linked List (linked_list)](./c_sharp/linked_list/main.cs)
 - [x] [Binary Search Tree (bst)](./c_sharp/bst/main.cs)
+- [X] [Heap](./c_sharp/heap/main.cs)
