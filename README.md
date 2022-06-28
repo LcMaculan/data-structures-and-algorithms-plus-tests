@@ -14,12 +14,12 @@ bash prepare.sh
 ## Run algorithm
 ```bash
 cd c_sharp
-bash run.sh {{ALGORITHM_NAME}}/main.cs
+bash run.sh {{ALGORITHM_NAME}}
 ```
 example:
 ```bash
 cd c_sharp
-bash run.sh bst/main.cs
+bash run.sh bst
 ```
 
 ## Algorithms
@@ -30,3 +30,26 @@ bash run.sh bst/main.cs
 - [x] [Linked List (linked_list)](./c_sharp/linked_list/main.cs)
 - [x] [Binary Search Tree (bst)](./c_sharp/bst/main.cs)
 - [X] [Heap](./c_sharp/heap/main.cs)
+- [] RB Tree
+
+- [] MST-Kruskal
+- [] MST-Prim
+- [] Dijkstra
+- [] Bellman-Ford
+- [] Extended Shortest Path
+- [] APSP
+- [] Floyd Warshall
+- [] Johnson
+- [] Stack
+- [] B Tree
+- [] AVL Tree
+
+- [] Insertion Sort
+- [] Selection Sort
+- [] Bubble Sort
+- [] Merge Sort
+- [] Quick Sort
+- [] Heap Sort
+- [] Counting Sort
+- [] Redix Sort
+- [] Bucket Sort
