@@ -14,12 +14,12 @@ bash prepare.sh
 ## Run algorithm
 ```bash
 cd c_sharp
-bash run.sh {{ALGORITHM_NAME}}/main.cs
+bash run.sh {{ALGORITHM_NAME}}
 ```
 example:
 ```bash
 cd c_sharp
-bash run.sh bst/main.cs
+bash run.sh bst
 ```
 
 ## Algorithms
